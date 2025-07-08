@@ -42,6 +42,8 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with Kap: 
 
+![Kapture 2025-07-08 at 16 54 42](https://github.com/user-attachments/assets/615016e4-61e8-405a-b76f-031ef917542a)
+
 
 ## Notes
 
